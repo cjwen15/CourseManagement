@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  
+  <siteMapNode url="index.aspx" title="主页"  description="主页">
+    
+    <siteMapNode url="基本表数据维护.aspx" title="基本表数据维护"  description="基本表数据维护">
+      <siteMapNode url="学生情况维护.aspx" title="学生情况维护" description="学生情况维护"/>
+      <siteMapNode url="教师情况维护.aspx" title="教师情况维护" description="教师情况维护"/>
+      <siteMapNode url="选课及成绩维护.aspx" title="选课及成绩维护" description="选课及成绩维护"/>
+      <siteMapNode url="教师讲授课程维护.aspx" title="教师讲授课程维护" description="教师讲授课程维护"/>
+      <siteMapNode url="课程档案维护.aspx" title="课程档案维护" description="课程档案维护"/>
+    </siteMapNode>
+  
+  <siteMapNode url="简单查询.aspx" title="简单查询"  description="简单查询" >
+    <siteMapNode url="学生情况.aspx" title="学生情况查询" description="学生情况查询"/>
+    <siteMapNode url="课程档案.aspx" title="课程档案查询" description="课程档案查询"/>
+    <siteMapNode url="选课及成绩.aspx" title="选课及成绩查询" description="选课及成绩查询"/>
+    <siteMapNode url="教师情况.aspx" title="教师情况查询" description="教师情况查询"/>
+  </siteMapNode>
+
+    <siteMapNode url="统计查询.aspx" title="统计查询"  description="统计查询" >
+      <siteMapNode url="学生情况(1).aspx" title="学生情况查询" description="学生情况查询"/>
+      <siteMapNode url="生源地人数统计查询.aspx" title="生源地人数统计查询" description="生源地人数统计查询"/>
+      <siteMapNode url="学生成绩查询主窗体.aspx" title="学生成绩查询" description="学生成绩查询"/>
+      <siteMapNode url="各院系人数生源地分布查询.aspx" title="各院系人数生源地分布查询" description="各院系人数生源地分布查询"/>
+      <siteMapNode url="各院系按性别统计人数.aspx" title="各院系按性别统计人数查询" description="各院系按性别统计人数查询"/>
+      <siteMapNode url="各院系按课程的平均成绩查询.aspx" title="各院系按课程的平均成绩查询" description="各院系按课程的平均成绩查询"/>
+      <siteMapNode url="按性别统计课程的平均成绩查询.aspx" title="按性别统计课程的平均成绩" description="按性别统计课程的平均成绩"/>
+      <siteMapNode url="各院系不及格课程名单.aspx" title="各院系不及格课程名单" description="各院系不及格课程名单"/>
+    </siteMapNode>
+
+    <siteMapNode url="报表打印.aspx" title="报表打印"  description="报表打印" >
+      <siteMapNode url="学生情况报表.aspx" title="学生情况报表" description="学生情况报表"/>
+      <siteMapNode url="学生成绩报表.aspx" title="学生成绩报表" description="学生成绩报表"/>
+      <siteMapNode url="生源地人数统计查询(1).aspx" title="生源地人数统计" description="生源地人数统计"/>
+      <siteMapNode url="课程档案一览表.aspx" title="课程档案一览表" description="课程档案一览表"/>
+    </siteMapNode>
+    
+    
+    
+  </siteMapNode>
+  
+</siteMap>
